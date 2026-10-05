@@ -1,0 +1,5 @@
+py -m http.server 8000
+
+
+
+py server.py
